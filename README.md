@@ -24,7 +24,6 @@ I'm enthusiastic about exploring various aspects of Artificial Intelligence and 
 - Programming Languages: Python, Java, C++
 - Web Technologies: HTML, CSS, JavaScript
 - Database Management: SQL
-- Version Control: Git, GitHub
 - Problem-solving and analytical thinking
 
 ##  Goals
