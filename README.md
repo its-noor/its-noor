@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a passionate Computer Science student at the University of North Florida, expected to graduate with a Bachelor of Science degree in fall 2025. I previously earned my Associate's degree in Computer Science from Florida State College at Jacksonville in May 2023.
+I'm a passionate Computer Science student at the University of North Florida, expected to graduate with a Bachelor of Science degree in fall 2025. I previously earned my Associate's degree in Art from Florida State College at Jacksonville in May 2023.
 
 ##  Work Experience
 
