@@ -21,8 +21,8 @@ I'm enthusiastic about exploring various aspects of Artificial Intelligence and 
 
 ##  Skills
 
-- Programming Languages: Python, Java, C++
-- Web Technologies: HTML, CSS, JavaScript
+- Programming Languages: Python, Java
+- Web Technologies: Flask, HTML, CSS, JavaScript
 - Database Management: SQL
 - Problem-solving and analytical thinking
 
