@@ -1,8 +1,8 @@
-#  Hi there! I'm a Computer Science Student at UNF
+#  Hi there! I'm a Computer Science graduate.
 
 ## About Me
 
-I'm a passionate Computer Science student at the University of North Florida, expected to graduate with a Bachelor of Science degree in fall 2025. I previously earned my Associate's degree in Art from Florida State College at Jacksonville in May 2023.
+I'm a passionate Computer Science graduate from University of North Florida, Currnetly pursing my masters at Geogia Tech in Computer Science.
 
 ##  Work Experience
 
